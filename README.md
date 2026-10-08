@@ -103,4 +103,4 @@ The goal is to make timing and evidence claims reproducible instead of publishin
 
 ## License
 
-A public open-source license has not been selected yet. A license will be added before the first tagged release.
+MIT License. See [LICENSE](LICENSE).
